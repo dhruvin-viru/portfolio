@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Analytics } from "@vercel/analytics/next"
 import { createTheme, ThemeProvider, CssBaseline, Box, CircularProgress, Typography } from '@mui/material';
 import ProfileCard from './component/ProfileCard';
 import Hero from './component/Hero';
